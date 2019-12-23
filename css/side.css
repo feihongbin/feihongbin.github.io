@@ -44,14 +44,6 @@
     font-size: 36px;
     margin-left: 50px;
 }
- 
-
- 
-/*当文档高度小于450px时，改变侧栏的padding属性和字体大小*/
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
-}
 
 .menu{
     font-size:30px;
